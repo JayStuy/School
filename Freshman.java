@@ -1,0 +1,2 @@
+public Freshman extends Student{
+}
