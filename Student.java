@@ -1,0 +1,2 @@
+public Student extends Character{
+}
