@@ -1,0 +1,2 @@
+public Teacher extends Character{
+}
