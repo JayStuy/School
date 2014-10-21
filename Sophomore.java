@@ -1,0 +1,2 @@
+public Sophomore extends Student{
+}
