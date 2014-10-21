@@ -1,0 +1,2 @@
+public Senior extends Student{
+}
