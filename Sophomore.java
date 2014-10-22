@@ -1,2 +1,2 @@
-public Sophomore extends Student{
+public class Sophomore extends Student{
 }
