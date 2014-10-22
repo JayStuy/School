@@ -1,2 +1,2 @@
-public Teacher extends Character{
+public class Teacher extends Character{
 }
